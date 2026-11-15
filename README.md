@@ -1,3 +1,9 @@
+<div align="center">
+  <p><code>marg-ghost@github ~ $ ./ai-infrastructure.sh --status</code></p>
+  <picture>
+    <img src="./architecture.svg" alt="AI Architect System Architecture" width="100%" />
+  </picture>
+</div>
 # 💫 About Me:
 I’m currently working in AI infrastructure and web development, which I use to host services in my home environment via a Raspberry Pi.<br><br>I’m still a student, so I’m always trying to expand my knowledge. Right now, I’m studying C, Assembly, and pentesting.<br><br>I’d love to work with others on different projects and am always open to collaborations.<br><br>Besides that, I also do video editing and a bit of design.<br>
 
